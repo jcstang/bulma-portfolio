@@ -27,3 +27,7 @@ nav {
 .footer {
   margin-top: 3rem;
 }
+
+.page-title {
+  border-bottom: 2px solid #333;
+}
