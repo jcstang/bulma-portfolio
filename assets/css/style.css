@@ -6,3 +6,16 @@
 .white-text {
   color: whitesmoke;
 }
+
+.pic-me {
+  width: 300px;
+}
+
+.skill-list {
+  background-color: #333366;
+  border: 2px solid #333;
+}
+
+.my-name {
+  background-color: #5555aa;
+}
