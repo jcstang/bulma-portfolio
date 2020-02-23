@@ -19,3 +19,7 @@
 .my-name {
   background-color: #5555aa;
 }
+
+nav {
+  box-shadow: 2px 2px 30px #333;
+}
