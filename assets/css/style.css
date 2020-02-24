@@ -18,6 +18,7 @@
 
 .my-name {
   background-color: #5555aa;
+  margin-left: 7rem;
 }
 
 nav {
@@ -30,4 +31,18 @@ nav {
 
 .page-title {
   border-bottom: 2px solid #333;
+}
+
+.nav-pages {
+  margin-right: 7rem;
+}
+
+.navbar-about:hover {
+  background-color: #5555aa;
+  color: pink;
+}
+
+.hover {
+  background-color: #cccce5;
+  color: whitesmoke;
 }
