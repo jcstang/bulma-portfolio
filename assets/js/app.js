@@ -8,4 +8,18 @@ $(document).ready(function() {
       $(".navbar-menu").toggleClass("is-active");
 
   });
+
+
+  $(".navbar-item").hover(
+    function() {
+      $( this ).addClass( "hover" );
+
+    }, function() {
+      $( this ).removeClass( "hover" );  
+
+    }
+  );
+
+
+
 });

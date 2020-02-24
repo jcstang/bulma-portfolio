@@ -36,3 +36,12 @@ nav {
 .nav-pages {
   margin-right: 7rem;
 }
+
+.navbar-about:hover {
+  background-color: #5555aa;
+  color: pink;
+}
+
+.hover {
+  background-color: #5555aa;
+}
