@@ -1,3 +1,6 @@
+/* font-family: 'Permanent Marker', ; */
+
+
 .section.is-primary {
   background-color: #5555aa;
   color: white;
@@ -19,6 +22,7 @@
 .my-name {
   background-color: #5555aa;
   margin-left: 7rem;
+  font-size: x-large;
 }
 
 nav {
@@ -45,4 +49,18 @@ nav {
 .hover {
   background-color: #cccce5;
   color: whitesmoke;
+}
+
+.my-name-footer {
+  font-family: 'Permanent Marker' ;
+  font-size: x-large;
+}
+
+.find-me{
+  margin-top: 3rem;
+}
+
+.btm-footer {
+  /* border-top: 1px solid #333; */
+  box-shadow: 2px 2px 15px #333;
 }
